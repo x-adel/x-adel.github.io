@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
 :root {
     background-color: #c1afc4;
+    font-family: "Comfortaa", sans-serif;
+}
+
+.default_button{
+    background-color: aqua;
+    font-size: large;
 }
