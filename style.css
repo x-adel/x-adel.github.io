@@ -5,7 +5,12 @@
     font-family: "Comfortaa", sans-serif;
 }
 
-.default_button{
+.logo {
+    width: 45px;
+    border-radius: 20%;
+}
+
+.default_button {
     background-color: aqua;
-    font-size: large;
+    font-size: 250%;
 }
